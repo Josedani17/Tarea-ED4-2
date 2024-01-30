@@ -7,7 +7,8 @@ package com.mycompany.jose_daniel.git;
 
 /**
  *
- * @author Jose Daniel
+ * @author Jose Daniel Lozano Saura
+
  */
 public class JDLS_GIT {
 
